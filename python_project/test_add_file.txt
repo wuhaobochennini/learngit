@@ -2,4 +2,4 @@
 import os
 from time import sleep
 for i in xrange(1, 10):
-    print i
+    print i+1
