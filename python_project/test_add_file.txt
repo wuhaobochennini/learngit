@@ -4,3 +4,4 @@ from time import sleep
 for i in xrange(1, 10):
     print i+1
 	sleep(3)
+Git tracks files.
